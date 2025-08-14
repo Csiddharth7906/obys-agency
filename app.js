@@ -100,6 +100,9 @@ document.addEventListener("mousemove",function(dets){
    })
  
 })
+
+
+  
 Shery.makeMagnet("#nav-part2 h4" )
 }
 // cursorAnimation();
